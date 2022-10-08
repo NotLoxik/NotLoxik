@@ -1,7 +1,7 @@
 ### Hi there, I'm Loxik 👋
 
 - 🔭 I’m currently working on Corgi
-- 🌱 I’m currently learning javascrip, java
+- 🌱 I’m currently learning JavaScript, Java
 - 👯 I’m looking to collaborate on Discord
 - 📫 You can reach me throught discord: Loxik#1234
 - 😄 Pronouns: he/him
