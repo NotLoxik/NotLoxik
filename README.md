@@ -1,7 +1,6 @@
 <p algin="center"><h1>Hi there, I'm Loxik 👋</h1></p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/banners/600997092109844490/f71348eda59953d7ddf25c64df82b553.png?size=300"></img>
   <h1>🔭 I’m currently working on Corgi</h1>
   <h1>🌱 I’m currently learning JavaScript, Java</h1>
   <h1>👯 I’m looking to collaborate on Discord</h1>
@@ -16,4 +15,4 @@
 </p>
 
 <h1 align="center">Community</h1>
-<p align="center"><a href="https://discord.gg/uqGXCDerQw">Discord Server</a></p>
+<p align="left"><a href="https://discord.gg/YcyKqxsZPq">Discord Server</a></p><p align="center"><a href="https://twitter.com/NotLoxik">Twitter</a></p>
