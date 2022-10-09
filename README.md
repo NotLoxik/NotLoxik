@@ -1,12 +1,12 @@
 <p algin="center"><h1>Hi there, I'm Loxik 👋</h1></p>
 
 <p align="center">
-  <h1>🔭 I’m currently working on Corgi</h1>
-  <h1>🌱 I’m currently learning JavaScript, Java</h1>
-  <h1>👯 I’m looking to collaborate on Discord</h1>
-  <h1>📫 You can reach me throught discord: Loxik#1234</h1>
-  <h1>😄 Pronouns: he/him</h1>
-  <h1>⚡ Corgi fun fact: Corgis can run up to 25mph, just under the world sprinting record for humans (and twice as fast as black mambas)</h1>
+  <h>🔭 I’m currently working on Corgi</h>
+  <h>🌱 I’m currently learning JavaScript, Java</h>
+  <h>👯 I’m looking to collaborate on Discord</h>
+  <h>📫 You can reach me throught discord: Loxik#1234</h>
+  <h>😄 Pronouns: he/him</h>
+  <h>⚡ Corgi fun fact: Corgis can run up to 25mph, just under the world sprinting record for humans (and twice as fast as black mambas)</h>
   
 </p>
 
