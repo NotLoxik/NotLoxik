@@ -7,4 +7,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Corgi fun fact: Corgis can run up to 25mph, just under the world sprinting record for humans (and twice as fast as black mambas)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T4FZAYZ)
+<iframe id='kofiframe' src='https://ko-fi.com/notloxik/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='notloxik'></iframe>
