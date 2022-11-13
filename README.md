@@ -1,4 +1,4 @@
-### Hi there, I'm Loxik 👋
+## Hi there, I'm Loxik 👋
 
 - 🔭 I’m currently working on Corgi
 - 🌱 I’m currently learning JavaScript, Java
