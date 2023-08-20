@@ -1,6 +1,6 @@
 ## Hi there, I'm Loxik 👋
 
-- 🔭 I’m currently working on Drag & Drop website
+- 🔭 I’m currently working on Drag & Drop website (HTML, JS, CSS)
 - 🌱 I’m currently learning JavaScript, Java
 - 👯 I’m looking to collaborate on Discord
 - 📫 You can reach me throught discord: Loxik#1234
