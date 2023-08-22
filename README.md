@@ -6,3 +6,4 @@
 - 📫 You can reach me throught discord: Loxik#1234
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Corgis can run up to 25mph, just under the world sprinting record for humans (and twice as fast as black mambas)
+- 🐺 And yes I am a furry
