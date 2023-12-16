@@ -17,4 +17,9 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#3](https://github.com/ISA-VESIT-test-org/raspberrypi-starter/pull/3) in [ISA-VESIT-test-org/raspberrypi-starter](https://github.com/ISA-VESIT-test-org/raspberrypi-starter)
+2. 🚀 Published release [v1.0.0](https://github.com/NotLoxik/my-app/releases/tag/1.0.0) in [NotLoxik/my-app](https://github.com/NotLoxik/my-app)
+3. ❌ Closed PR [#9120](https://github.com/is-a-dev/register/pull/9120) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 💪 Opened PR [#9120](https://github.com/is-a-dev/register/pull/9120) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🎉 Merged PR [#2](https://github.com/NotLoxik/notloxik.github.io/pull/2) in [NotLoxik/notloxik.github.io](https://github.com/NotLoxik/notloxik.github.io)
 <!--END_SECTION:activity-->
