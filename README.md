@@ -17,9 +17,9 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [First Release](https://github.com/NotLoxik/embedBuilder/releases/tag/v1.0.0) in [NotLoxik/embedBuilder](https://github.com/NotLoxik/embedBuilder)
-2. 💪 Opened PR [#3](https://github.com/ISA-VESIT-test-org/raspberrypi-starter/pull/3) in [ISA-VESIT-test-org/raspberrypi-starter](https://github.com/ISA-VESIT-test-org/raspberrypi-starter)
-3. 🚀 Published release [v1.0.0](https://github.com/NotLoxik/my-app/releases/tag/1.0.0) in [NotLoxik/my-app](https://github.com/NotLoxik/my-app)
-4. ❌ Closed PR [#9120](https://github.com/is-a-dev/register/pull/9120) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 💪 Opened PR [#9120](https://github.com/is-a-dev/register/pull/9120) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🗣 Commented on [#3](https://github.com/ISA-VESIT-test-org/raspberrypi-starter/pull/3#issuecomment-1859206653) in [ISA-VESIT-test-org/raspberrypi-starter](https://github.com/ISA-VESIT-test-org/raspberrypi-starter)
+2. 🚀 Published release [First Release](https://github.com/NotLoxik/embedBuilder/releases/tag/v1.0.0) in [NotLoxik/embedBuilder](https://github.com/NotLoxik/embedBuilder)
+3. 💪 Opened PR [#3](https://github.com/ISA-VESIT-test-org/raspberrypi-starter/pull/3) in [ISA-VESIT-test-org/raspberrypi-starter](https://github.com/ISA-VESIT-test-org/raspberrypi-starter)
+4. 🚀 Published release [v1.0.0](https://github.com/NotLoxik/my-app/releases/tag/1.0.0) in [NotLoxik/my-app](https://github.com/NotLoxik/my-app)
+5. ❌ Closed PR [#9120](https://github.com/is-a-dev/register/pull/9120) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
